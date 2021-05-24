@@ -1,5 +1,15 @@
 {
   "dependencies": {
-    "npm": "7.14.0"
+    "axios": "^0.21.1",
+    "baqend": "^3.0.0",
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "local-web-server": "^4.2.1",
+    "mock-rest-server": "^1.2.0",
+    "moment": "^2.29.1",
+    "netlify-cms-backend-gitlab": "^2.11.2",
+    "npm": "7.14.0",
+    "react-dom": "^17.0.2",
+    "tslib": "^2.2.0"
   }
 }
