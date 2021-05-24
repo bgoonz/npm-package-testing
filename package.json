@@ -10,6 +10,7 @@
     "commander": "^7.2.0",
     "css-declaration-sorter": "^6.0.3",
     "documentation": "^13.2.5",
+    "email-templates": "^8.0.7",
     "jsdoc": "^3.6.7",
     "jsdoc-to-markdown": "^7.0.1",
     "json-format-cli": "^1.1.1",
@@ -27,6 +28,7 @@
     "recursive-readdir-async": "^1.1.8",
     "recursive-rename": "^4.0.0",
     "recursive-search": "^1.0.1",
+    "redux": "^4.1.0",
     "sequelize": "^6.6.2",
     "tslib": "^2.2.0"
   }
