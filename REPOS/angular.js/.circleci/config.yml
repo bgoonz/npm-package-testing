@@ -34,7 +34,7 @@ executors:
   cloud-sdk:
     description: The docker container to use when running gcp-gcs commands
     docker:
-      - image: google/cloud-sdk:alpine@sha256:42fe876c36dc916cb5a90038c14bf7d1fdee617534bfce227e3d128d5f25b749
+      - image: google/cloud-sdk:alpine@sha256:1a7c20c6c62c3329ee304e134b213252fa80d1f64054771589338a43f9fea635
     working_directory: ~/ng
 
 
